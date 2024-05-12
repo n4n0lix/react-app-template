@@ -131,3 +131,6 @@ dist
 
 # Seed data
 oracle-cards-*.json
+
+# Build data
+build/
